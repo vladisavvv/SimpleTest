@@ -1,0 +1,5 @@
+cmake_minimum_required(VERSION 3.7)
+project(SimpleTest)
+set(SOURCE_FILES SimpleTest.cpp)
+add_executable(SimpleTest ${SOURCE_FILES})
+target_link_libraries(SimpleTest DiffProcessor)

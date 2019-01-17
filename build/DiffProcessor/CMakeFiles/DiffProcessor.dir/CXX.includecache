@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/vladislavvisnevskij/Documents/SimpleTest/C++/DiffProcessor/Processor.cpp
+Processor.h
+/Users/vladislavvisnevskij/Documents/SimpleTest/C++/DiffProcessor/Processor.h
+
+/Users/vladislavvisnevskij/Documents/SimpleTest/C++/DiffProcessor/Processor.h
+SortedLimitedList.h
+/Users/vladislavvisnevskij/Documents/SimpleTest/C++/DiffProcessor/SortedLimitedList.h
+
+/Users/vladislavvisnevskij/Documents/SimpleTest/C++/DiffProcessor/SortedLimitedList.h
+stdexcept
+-
+vector
+-
+iostream
+-
+string
+-
+

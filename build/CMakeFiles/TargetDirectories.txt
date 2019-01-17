@@ -1,0 +1,8 @@
+/Users/vladislavvisnevskij/Documents/SimpleTest/C++/build/CMakeFiles/rebuild_cache.dir
+/Users/vladislavvisnevskij/Documents/SimpleTest/C++/build/CMakeFiles/edit_cache.dir
+/Users/vladislavvisnevskij/Documents/SimpleTest/C++/build/DiffProcessor/CMakeFiles/rebuild_cache.dir
+/Users/vladislavvisnevskij/Documents/SimpleTest/C++/build/DiffProcessor/CMakeFiles/edit_cache.dir
+/Users/vladislavvisnevskij/Documents/SimpleTest/C++/build/DiffProcessor/CMakeFiles/DiffProcessor.dir
+/Users/vladislavvisnevskij/Documents/SimpleTest/C++/build/SimpleTest/CMakeFiles/rebuild_cache.dir
+/Users/vladislavvisnevskij/Documents/SimpleTest/C++/build/SimpleTest/CMakeFiles/edit_cache.dir
+/Users/vladislavvisnevskij/Documents/SimpleTest/C++/build/SimpleTest/CMakeFiles/SimpleTest.dir
